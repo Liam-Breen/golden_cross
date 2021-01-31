@@ -5,3 +5,5 @@ stock_market/history/__pycache__/apps.cpython-38.pyc
 stock_market/history/__pycache__/models.cpython-38.pyc
 stock_market/history/__pycache__/urls.cpython-38.pyc
 stock_market/history/__pycache__/views.cpython-38.pyc
+stock_market/history/migrations/__init__.py
+stock_market/history/migrations/__pycache__/__init__.cpython-38.pyc
