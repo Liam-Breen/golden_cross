@@ -10,3 +10,5 @@ stock_market/history/migrations/__pycache__/__init__.cpython-38.pyc
 stock_market/stock_market/__pycache__/settings.cpython-38.pyc
 stock_market/stock_market/__pycache__/urls.cpython-38.pyc
 stock_market/stock_market/__pycache__/wsgi.cpython-38.pyc
+stock_market/stock_market/__pycache__/settings.cpython-38.pyc
+.gitignore
